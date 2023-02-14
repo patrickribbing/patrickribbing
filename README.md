@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patrickribbing
 - 👀 I’m interested in open source, cloud, Commodore 64, home automation and more
-- 🌱 I’m currently learning security
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me, try my mail patrick@ribbing.net
 
 <!---
